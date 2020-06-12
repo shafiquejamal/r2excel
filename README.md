@@ -13,6 +13,6 @@ install_github("kassambara/r2excel")
    
 ## Geting started
 
-Find out more at http://www.sthda.com/english/wiki/r2excel/
+Find out more at http://www.sthda.com/english/wiki/r2excel/ and http://www.sthda.com/english/wiki/r2excel-read-write-and-format-easily-excel-files-using-r-software#r2excel-package
 
 
